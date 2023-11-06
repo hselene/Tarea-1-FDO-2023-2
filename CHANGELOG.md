@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+ - e19c27f Helena Alvarado 2023-11-06: feat: implementa inserción de libros en la base de datos
+ - c8998fb Helena Alvarado 2023-11-06: feat: agrega el endpoint create
+
 ## [0.1.0] - 2023-10-25 
 
 ### Added
